@@ -1,6 +1,26 @@
 # @flemminghansen/color-tools
 
+[![npm version](https://badge.fury.io/js/@flemminghansen%2Fcolor-tools.svg)](https://badge.fury.io/js/@flemminghansen%2Fcolor-tools)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 A small collection of tools to make it easier to work with and convert colors in JavaScript/TypeScript. It provides functions for converting between HEX, RGBA, and HSLA formats, mixing colors, and calculating brightness and contrast ratios.
+
+---
+
+## Table of Contents
+
+- [@flemminghansen/color-tools](#flemminghansencolor-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Example](#example)
+  - [API Documentation](#api-documentation)
+    - [Color Conversion Functions](#color-conversion-functions)
+    - [Color Mixing \& Channel Utilities](#color-mixing--channel-utilities)
+    - [Brightness and Contrast](#brightness-and-contrast)
+    - [HSLA String Utilities](#hsla-string-utilities)
+
 
 ## Features
 
