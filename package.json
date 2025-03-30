@@ -3,7 +3,7 @@
   "author": "Flemming Hansen",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "Small collection of tools to make it easier to work with and convert colors",
+  "description": "Small collection of tools to make it easier to convert and work with colors",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
