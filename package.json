@@ -2,7 +2,7 @@
   "name": "@flemminghansen/color-tools",
   "author": "Flemming Hansen",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small collection of tools to make it easier to convert and work with colors",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
